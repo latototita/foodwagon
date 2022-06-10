@@ -25,7 +25,7 @@ SECRET_KEY = '=$d-mj447^k-_%*k8&3vm3asd0ocp$h4jpu(!o8b7z0ms_cogm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pearlfoodwagon.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
